@@ -1,0 +1,5 @@
+.App_container{
+    position: relative;
+    margin-left: 100px;
+    scroll-behavior: auto;
+}
